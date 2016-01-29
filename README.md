@@ -11,3 +11,37 @@
 > Le traducteur fait  confiance à la communauté pour relire, corriger, et ajouter les liens manquants.
 
 
+## La correctrice
+
+* **âge :** ~25 ans ;
+* **emploi :** bibliothécaire.
+
+>
+
+## La Débutante Senior
+
+* **âge :** +65 ans ;
+* **emploi :** retraité de l'éducation nationale.
+
+>
+
+## Le SysAdmin
+
+* **âge :** ~20 ans ;
+* **emploi :** étudiant en informatique.
+
+>
+
+## Le Jeune
+
+* **âge :** 10~16 ans ;
+* **emploi :** collégien, lycéen.
+
+>
+
+## Le Vandale
+
+* **âge :** ? ;
+* **emploi :** ?.
+
+>
