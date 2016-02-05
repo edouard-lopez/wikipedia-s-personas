@@ -1,6 +1,6 @@
 # Wikipedia's Personas
 
-## Le traducteur
+## Le Traducteur
 
 * **âge :** ~30 ans ;
 * **emploi :** ingénieur, voyageur.
@@ -11,7 +11,7 @@
 > Le traducteur fait  confiance à la communauté pour relire, corriger, et ajouter les liens manquants.
 
 
-## La correctrice
+## La Correctrice
 
 * **âge :** ~25 ans ;
 * **emploi :** bibliothécaire.
